@@ -6,6 +6,11 @@
   "scripts": {
     "test": "jest"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Harini224/React.git"
+  },
+  "keywords": [],
   "author": "",
   "license": "ISC",
   "devDependencies": {
